@@ -1,0 +1,13 @@
+{
+  "name": "desafios-halloween",
+  "version": "1.0.0",
+  "main": "ejercicio_5.js",
+  "scripts": {
+    "dev": "node --watch ejercicio_1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
